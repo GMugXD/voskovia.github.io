@@ -1,13 +1,15 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Voskovia
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: voskovia.github.io/quartz
+  baseUrl: configuration: {
+  pageTitle: "Quartz 5",
+  baseUrl: "gmugxd.github.io/voskovia.github.io"
   ignorePatterns:
     - private
     - templates

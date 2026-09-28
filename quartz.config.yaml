@@ -7,7 +7,6 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  pageTitle: "Quartz 5"
   baseUrl: "gmugxd.github.io/voskovia.github.io"
   ignorePatterns:
     - private

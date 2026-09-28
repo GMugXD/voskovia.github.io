@@ -1,0 +1,7 @@
+Massive, recursive or self-similar in form, apex predators of the [[Stell|stell]] that bears resemblance in purpose and intimidation to the greatest combat vessels of the VCM ([[Acclamators]]); wandering and obliterating anything with a living signature. 
+Ruins are an [[Machinations|machination lifeform]], akin to a living machine battleship; being a single mass of fysen and meiss, surrounded and bound by [[Coral]] as the hull, with extensions / protrusions from the central hull that are the guns/armaments of this almost naval machination. 
+Additionally, their self-similarity property excludes nothing, down to their guns. The main guns in their turrets themselves have a fractal design, however, like the dynamic between the Mandelbrot and Julia sets, these fractals are just the other side of the coin of the fractal design of the ship. This property is born from the Ruins' large utilisation of [[Coral]] in their hull/bodies.
+
+Ruins are an umbrella term for many species of ruin, similar to [[Arcplasm]]. These species of ruin are referred to as Classes, a nod to their naval classification, and there are many classes of ruin.
+
+With the limited research, and plentiful records of Ruins, they have been found to possess a high intelligence but interesting possess a "sentience limiter" in their [[Code (Machinations)|machination code/genes]].

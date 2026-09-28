@@ -1,0 +1,5 @@
+Robo spider mounts. The equivalent of the horse; the stallion of Voskovia. Crawlers are a machination lifeform which resembles gigantic spiders; multi legged, multi eyed, but with armour maijims and fibernetic fur. They are around the same size as horses but can be bigger or smaller, depending on the exact species or set of crawler. Despite their size, they are excellent scalers and use a special type of meiss they create and harness anti-gravity to help scale larger obstacles. They are also terrifyingly fast.
+
+Crawlers sustain themselves on literally anything (matter->pen) except arte (which they dislike), and bond with each other or their caretaker. They can also survive basically anywhere because of their nature as a machination. For these reasons, voskovians trained, domesticated, bred, and utilised crawlers as mounts, as pets, and as weapons and emplacements Crawlers reproduce by using a similar technique to Compositoration, but by their special meiss.
+
+They excel better in space/ non-atmospheric environments, and are smart, loyal creatures. Truly, they are a voskovian's best friend.

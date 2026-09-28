@@ -1,0 +1,6 @@
+Self-recursive or fractal-like, infinitely detailed exotic form of matter found across the [[Stell|stell]] on [[Worlds|worlds]] and [[Erisen|erisei]] alike. Taking on the form of fractals or other self similar patterns as physical growths / formations (reefs), notably spreading via the movements and actions of [[Ruins]] and [[Chords]].
+
+From [[Datesta|precursor datesta]] recovered from the [[Datcosm]], Coral is made up of specialised machines/nanomachines which are extremely small; so small that they cannot interact with anything else. They can only interact with things as the whole itself and eachother, not as individual machines. Which, forms the many exotic, fractal-like patterns that coral growths takes on, patterns with infinite detail when looked closely. 
+In addition, Coral grows without any energy input, essentially "zooming out" continuously when combined with their context as a "self-recursive, fractal-like matter". It is noted that coral grows rapidly when interacting with energy.
+
+Coral is found as reefs, massive formations of coral protrusions and growths on worlds. Appearance wise, Coral varies wildly, but generally takes on an extremely wide range of hues and appears glasslike.

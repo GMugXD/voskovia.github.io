@@ -1,0 +1,7 @@
+Small, bug-like architect machination lifeforms forged and engineered by the Adens for the continued maintainance and expansion of the Aden network. They mirror ants, as a single ten cannot achieve much, but by just doing the role assigned to them, expanding and maintaining the infrastructure that is their responsibility as a group, and the continued establishment of more Adens. As a ten is analogous to an ant, the Aden would promptly be analogous to a ant colony, albeit one armed with naturally occuring nuclear armaments and railcannons.
+
+On their bodies, they possess wires/cables that use a restricted form of static (that is, voskovian nanomachine fire) to carve into matter, changing their physical properties and turning them into the framework of whatever they are working on. This is similar to Compositoration tech used by Voskovia. They also use this to repair Adens.
+
+The Tensei are a myriad of differing, bug like drones that have their own roles and perform their own tasks. They range in size, range, power, and lethality, with their biggest being the Rettaurann Tensei, which is the size, look and sting of a hornet.
+
+Distinctly, these are more akin to drone than machination. However, due to their behaviour and many shared characteristics with machinations, they are still classified as machinations.

@@ -1,0 +1,3 @@
+Easily the strongest [[Fysen|fysen]] ever created, deployed only for [[Voskovian Central Military (VCM)|VCM]] purposes or in special architecture, and infrastructure, in limited amounts. Utilises 80% refined [[Meiss|meiss]] and other reinforcement methods to create a truly invulnerable material. 
+
+Easily [[Interfacing|interfaced]], with most gear and infrastructure that apply it having it interfaced with use of other materials and protocols, like Itteraim.

@@ -1,0 +1,11 @@
+- Actions are denoted by the suffix -lit, -ilit, or -it depending on the vowel ending.
+   - Virailit: To live conceptually, or to live but abstracted
+   - Vireilit: To continue living
+   - Virolit: To physically live
+   - Virilit: To live more than once
+   - Viruit: Purely to live; to live and nothing else
+
+- Examples:
+   - Absolit, en Besolit. - To rise and to fall.
+   - Focaeolit - To physically create.
+   - Ino volst Foralit ae Nove Ulta.  - I will form a better future.

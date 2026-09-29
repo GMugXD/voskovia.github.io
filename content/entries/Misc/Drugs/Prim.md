@@ -1,0 +1,4 @@
+Standardized and high quality amnestics developed by the VCM that have escaped military usage, being deployed by the underground's powerful guilds and shade dealings megacorpos.
+
+The original process, patented by Aureli Vanstrin for use in the VCM, has been the basis of all ameprims since. Since then, his original process has been modified and amplified to fit the needs of the corpos, guilds, and houses which need them to keep lips shut. 
+There are many off-branches of the original process that have become entirely different drugs, and nowadays Ameprims themselves vary from potency, quality and method of production.

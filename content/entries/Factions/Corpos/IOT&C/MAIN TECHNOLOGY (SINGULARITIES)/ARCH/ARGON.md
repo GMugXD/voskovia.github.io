@@ -1,0 +1,7 @@
+`Anomaly Resonance Generator Output Nexus (ARGON)`
+
+The main energy extraction device using the ARCH technology. It is installed in every sentient containment cell.
+
+It appears to be a small box shaped device strapped to the corner of sentient containment cells, with a large optical lens in the center of the box. When active, it fires a high output tractor beam which stimulates the anomaly which it hits and also leeches off their life force and anomalous properties before transferring it to the ARGON nexus. The nexus is what converts it into Eostraphon in the liquid state. Said liquid can be harvested straight up, or be sent to the AETHER generator located in the facility.
+
+`When an ARGON device is to be armed in a cell, please administer a small dose of Neuralyzer to subdue the anomaly before sending in disposables to put the anomaly in restraint. While the disposables are in fact, disposable, losing one of them means losing manpower. In turn, losing profit. While the ARGON is active, under no circumstances is anyone to open the cell door or, god forbid, get in the way of the beam. It is fine tuned for anomaly harvest. You will die a horrible death if you even touch the beam by a hair's breadth.`

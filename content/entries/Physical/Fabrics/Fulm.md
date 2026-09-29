@@ -1,1 +1,1 @@
-The general name for the clean, stylised and beautiful fabrics seen in voskovian fashion, beauty and aesthetics
+The general name for the clean, stylised and beautiful fabrics seen in voskovian fashion, beauty and aesthetics.

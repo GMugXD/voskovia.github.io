@@ -1,0 +1,4 @@
+The standard, glowing cyanwhite supercoolant. Harnessed by special processes utilizing alot of energy, special chemical states and technology. Nitro is extremely stable and safe, and even drinkable in the form of lesser nitro, which are usually sold as beverages, and is somewhat desirable, because the extreme hypercold the nitro gives actually boosts one's body, keeping it alert and focused, as it's amplified by the already cold voskovian weather. 
+The harsh contrast is what drives many to keep drinking it, much like Beer. It is an acquired taste..
+
+Nitro is abundant and easy to come by, both industrial, personnel and ordinary grade, with all military systems employing nitro protocols to a limited amount, and even when they don't, nitro can be drenched on equipment to cool and boost effectiveness.

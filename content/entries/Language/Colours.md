@@ -1,0 +1,27 @@
+- Rim (Red)
+   - Varim (Orange)
+	- Vlraim (Light yellow/gold)
+- **Vaim (Yellow/Gold)**
+	- Vruanim (Dark yellow/gold)
+- Vaysim (Yellow green, Acid)
+- Wysim (Green)
+- Ytadim (Cyan)
+- Adim (Blue)
+   - Afaim (Violet)
+   - Fiadim (Purple)
+- Fieim (Magenta)
+
+- Leim (White)
+- Noim (Black)
+- Eraim (Gray)
+
+- Lris- (Light)
+- Noua- (Dark)
+- Lrisadim (Light blue)
+- Nysvarim (Dark orange, aka brown)
+
+- Steuim (Colour of noise)
+- Vanim (Colour of space)
+- Iphim (Colour of blood)
+- Caelm (Colour of change)
+- -im (Colour of-)
